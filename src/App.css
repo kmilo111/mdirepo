@@ -1,0 +1,180 @@
+.App {
+  text-align: center;
+}
+
+.center{
+  margin: 0px auto;
+}
+
+.center-button{
+  text-align: center;
+  margin-top: 22px;
+}
+
+.custom-control input[type="checkbox"]{
+  width: 90%;
+  float: right;
+  margin-top: -27px;
+  position: absolute;
+}
+
+.btn-secondary{
+  padding: 3px !important;
+  font-size: 13px !important;
+}
+
+a.btn-secondary{
+  color:#fff !important;
+}
+
+.radiosPrice{
+  margin-top: 15px;
+  margin-left: 8px;
+}
+
+.places{
+  margin-top: 17px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.mainHeader{
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  float: left;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  padding-bottom: 14px;
+  font-size:20px; 
+}
+
+.btn-add{
+  font-size: 14px;
+  margin-top: -7px;
+}
+
+.text-mod{
+  margin-top: 14px;
+  margin-bottom: 14px;
+}
+
+.btnAddGroupEvent{
+  border: none;
+  background-color: transparent;
+  font-size: 26px;
+  margin-top: 27px;
+  cursor: pointer;
+  float: left;
+  color:#333;
+}
+
+.ReactTable .rt-tbody .rt-td{
+  text-align: center;
+}
+
+.ReactTable .rt-thead{
+  margin-bottom: 17px;
+}
+
+.ReactTable .-pagination .-previous, .ReactTable .-pagination .-next{
+  flex: 0 !important;
+}
+
+.content-spinner{
+  width: 100%;
+  height: auto;
+  text-align: center;
+  display: none;
+}
+
+.imgSpinner{
+  width: 32px;
+}
+
+.size-chk{
+  margin-left: -28px;
+  margin-top: 11px;
+}
+
+.size-chk input[type="checkbox"]{
+  margin-top: -24px !important;
+  margin-left: 8px;
+}
+
+.btn-add-price{
+  margin-top: 7px;
+  font-size: 12px;
+}
+
+.btn-add-config{
+  margin-top: 27px;
+}
+
+.custom-textBox input[type="text"]{
+  margin-top: -32px !important;
+}
+
+.tbl-canales,
+.tbl-productos{
+  margin-top: 40px;
+  background-color: #fff !important;
+  border: 1px solid #ccc;
+}
+
+.tbl-canales th{
+  text-align: center;
+}
+
+.tbl-canales td{
+  text-align: center;
+}
+
+.tbl-price{
+  margin-top: 34px;
+  border: 1px solid #ccc;
+}
+
+.tbl-price th{
+  text-align: center
+}
+
+.tbl-price td{
+  text-align: center;
+}
+
+.tbl-productos th{
+  text-align: center
+}
+
+.tbl-productos td{
+  text-align: center;
+}
+
+.chkbox-product input[type="checkbox"]{
+  margin-left: 17px;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+
